@@ -1,0 +1,14 @@
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\bin\Debug\MultiAccountNotes.exe.config
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\bin\Debug\MultiAccountNotes.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\bin\Debug\MultiAccountNotes.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.csprojResolveAssemblyReference.cache
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.Form1.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.Properties.Resources.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.csproj.GenerateResource.Cache
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.Form2.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\bin\Debug\MultiAccountNotes.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\bin\Debug\MultiAccountNotes.application
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.exe.manifest
+c:\users\gerbster\documents\visual studio 2015\Projects\MultiAccountNotes\MultiAccountNotes\obj\Debug\MultiAccountNotes.application
